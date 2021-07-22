@@ -26,7 +26,7 @@ exclude_songs: []
 # are needed.
 table_path: "dic/kana2phonemes_utf8_for_oto2lab.table"
 ## HTS-style question used for extracting musical/linguistic context from musicxml files
-question_path: "hed/jp_qst_crazy_mono_010_enunu_212D.hed"
+question_path: "hed/jp_qst_crazy_mono_012_enunu_212D.hed"
 
 # Time-lag constraints to filter outliers
 timelag_allowed_range: [-20, 19]
