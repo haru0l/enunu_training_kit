@@ -8,6 +8,6 @@ netG:
   _target_: nnsvs.model.FeedForwardNet
   in_dim: 212
   out_dim: 1
-  hidden_dim: 512
+  hidden_dim: 256
   num_layers: 6
-  dropout: 0.5
+  dropout: 1e-06
