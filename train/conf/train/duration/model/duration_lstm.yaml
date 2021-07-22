@@ -11,4 +11,4 @@ netG:
   hidden_dim: 128
   num_layers: 6
   bidirectional: true
-  dropout: 0.5
+  dropout: 1e-06
