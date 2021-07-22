@@ -16,7 +16,7 @@ function xrun () {
 }
 
 #change-----------------------------------------------------------
-NNSVS_ROOT=../nnsvs
+NNSVS_ROOT=/content/nnsvs
 #change-----------------------------------------------------------
 script_dir=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)
 NNSVS_COMMON_ROOT=$NNSVS_ROOT/egs/_common/spsvs
