@@ -20,7 +20,7 @@ alias python="./../python-3.8.10-embed-amd64/python"
 
 script_dir=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)
 
-NNSVS_ROOT=../nnsvs
+NNSVS_ROOT=/content/nnsvs
 NNSVS_COMMON_ROOT=$NNSVS_ROOT/egs/_common/spsvs
 NO2_ROOT=$NNSVS_ROOT/egs/_common/no2
 . "$NNSVS_ROOT/utils/yaml_parser.sh" || exit 1;
