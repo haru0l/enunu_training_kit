@@ -1,5 +1,8 @@
 # ENUNU Training Kit
 
+Made specifially because I'm lazy~
+Original description as follows.
+
 USTとLABとＷAVがあれば楽にモデル生成できます。
 
 ## 用途
