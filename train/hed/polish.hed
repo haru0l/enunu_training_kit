@@ -48,6 +48,10 @@ QS "L-l"	{^l-}
 QS "L-r"	{^r-}
 QS "L-w"	{^w-}
 QS "L-j"	{^j-}
+QS "L-pau"	{^pau-}
+QS "L-sil"	{^sil-}
+QS "L-br"	{^br-}
+QS "L-cl"	{^cl-}
 
 QS "C-Vowel"	{-i+,-y+,-e+,-a+,-o+,-u+,-ew+,-ow+}
 QS "C-Consonant"	{-p+,-b+,-t+,-d+,-k+,-g+,-f+,-v+,-z+,-S+,-Z+,-sj+,-zj+,-x+,-ts+,-dz+,-tS+,-dZ+,-tsj+,-dsj+,-m+,-n+,-nj+,-N+,-l+,-r+,-w+,-j+}
@@ -99,6 +103,10 @@ QS "C-l"	{-l+}
 QS "C-r"	{-r+}
 QS "C-w"	{-w+}
 QS "C-j"	{-j+}
+QS "C-pau"	{-pau+}
+QS "C-sil"	{-sil+}
+QS "C-br"	{-br+}
+QS "C-cl"	{-cl+}
 
 QS "R-Vowel"	{+i=,+y=,+e=,+a=,+o=,+u=,+ew=,+ow=}
 QS "R-Ronsonant"	{+p=,+b=,+t=,+d=,+k=,+g=,+f=,+v=,+z=,+S=,+Z=,+sj=,+zj=,+x=,+ts=,+dz=,+tS=,+dZ=,+tsj=,+dsj=,+m=,+n=,+nj=,+N=,+l=,+r=,+w=,+j=}
@@ -150,6 +158,10 @@ QS "R-l"	{+l=}
 QS "R-r"	{+r=}
 QS "R-w"	{+w=}
 QS "R-j"	{+j=}
+QS "R-pau"	{+pau=}
+QS "R-sil"	{+sil=}
+QS "R-br"	{+br=}
+QS "R-cl"	{+cl=}
 
 CQS "d1_absolute_pitch" {/D:(\NOTE)!}
 CQS "e1_absolute_pitch" {/E:(\NOTE)]}
