@@ -1,3 +1,9 @@
+QS "p1_C-Phone_Language_Independent_Silence"   {s@*}
+QS "p1_C-Phone_Language_Independent_Pause"     {p@*}
+QS "p1_C-Phone_Language_Independent_Break"     {b@*}
+QS "p1_C-Phone_Language_Independent_Consonant" {c@*}
+QS "p1_C-Phone_Language_Independent_Vowel"     {v@*}
+
 QS "p3_L-Phone_Muon"            {*^pau-*,*^sil-*}
 QS "p4_C-Phone_Muon"            {*-pau+*,*-sil+*}
 QS "p5_R-Phone_Muon"            {*+pau=*,*+sil=*}
@@ -184,6 +190,188 @@ QS "p3_L-Phone_z"   {*^z-*}
 QS "p4_C-Phone_z"   {*-z+*}
 QS "p5_R-Phone_z"   {*+z=*}
 
+QS "L-Hinshi_xx"               {/B:xx-}
+QS "L-Hinshi_Jiritsugo"        {/B:01-,/B:02-,/B:03-,/B:04-,/B:06-,/B:07-,/B:08-,/B:09-,/B:15-,/B:16-,/B:17-,/B:18-,/B:19-,/B:20-}
+QS "L-Hinshi_Fuzokugo"         {/B:10-,/B:11-,/B:12-,/B:13-,/B:14-,/B:22-,/B:23-,/B:24-}
+QS "L-Hinshi_Katsuyou_Kanou"   {/B:01-,/B:17-,/B:20-}
+QS "L-Hinshi_Katsuyou_Fukanou" {/B:01-,/B:02-,/B:03-,/B:04-,/B:06-,/B:07-,/B:08-,/B:15-,/B:16-,/B:18-,/B:19-}
+QS "L-Hinshi_Doushi"           {/B:17-,/B:20-}
+QS "L-Hinshi_Syugo_Kanou"      {/B:02-,/B:03-,/B:04-}
+QS "L-Hinshi_Meishi"           {/B:02-,/B:03-,/B:18-,/B:19-}
+QS "L-Hinshi_Syusyokugo"       {/B:06-,/B:07-}
+QS "L-Hinshi_Naiyougo"         {/B:01-,/B:02-,/B:03-,/B:04-,/B:06-,/B:07-,/B:15-,/B:16-,/B:17-,/B:18-,/B:19-,/B:20-}
+QS "L-Hinshi_Joshi"            {/B:11-,/B:12-,/B:13-,/B:14-,/B:22-,/B:23-,/B:24-}
+QS "L-Hinshi_Keiyoushi"        {/B:01-}
+QS "L-Hinshi_Futsuu_Meishi"    {/B:02-}
+QS "L-Hinshi_Sahen_Meishi"     {/B:03-}
+QS "L-Hinshi_Dai_Meishi"       {/B:04-}
+QS "L-Hinshi_Suushi"           {/B:05-}
+QS "L-Hinshi_Fukushi"          {/B:06-}
+QS "L-Hinshi_Rentaishi"        {/B:07-}
+QS "L-Hinshi_Setsuzokushi"     {/B:08-}
+QS "L-Hinshi_Kandoushi"        {/B:09-}
+QS "L-Hinshi_Jodoushi"         {/B:10-}
+QS "L-Hinshi_Fuku_Joshi"       {/B:11-}
+QS "L-Hinshi_Setsuzoku_Joshi"  {/B:12-}
+QS "L-Hinshi_Kaku_Joshi"       {/B:13-}
+QS "L-Hinshi_Syuu_Joshi"       {/B:14-}
+QS "L-Hinshi_Setsubigo"        {/B:15-}
+QS "L-Hinshi_Settougo"         {/B:16-}
+QS "L-Hinshi_Hojo_Doushi"      {/B:17-}
+QS "L-Hinshi_Koyuu_Meishi"     {/B:18-}
+QS "L-Hinshi_Keiyou_Meishi"    {/B:19-}
+QS "L-Hinshi_Hon_Doushi"       {/B:20-}
+QS "L-Hinshi_Juntai_Joshi"     {/B:22-}
+QS "L-Hinshi_Heiretsu_Joshi"   {/B:23-}
+QS "L-Hinshi_Kakari_Joshi"     {/B:24-}
+QS "L-Hinshi_Filler"           {/B:25-}
+
+QS "L-Katsuyougata_xx"           {-xx_}
+QS "L-Katsuyougata_Hensokugata"  {-0_}
+QS "L-Katsuyougata_Godan"        {-1_}
+QS "L-Katsuyougata_Ichidan"      {-2_,-3_}
+QS "L-Katsuyougata_Sahen"        {-4_}
+QS "L-Katsuyougata_Kahen"        {-5_}
+QS "L-Katsuyougata_Tokusyugata"  {-6_}
+QS "L-Katsuyougata_Miteigigata"  {-7_}
+
+QS "L-Katsuyoukei_xx"      {_xx/C:}
+QS "L-Katsuyoukei_Mizen"   {_0/C:}
+QS "L-Katsuyoukei_Renyou"  {_1/C:}
+QS "L-Katsuyoukei_Syuushi" {_2/C:}
+QS "L-Katsuyoukei_Rentai"  {_3/C:}
+QS "L-Katsuyoukei_Katei"   {_4/C:}
+QS "L-Katsuyoukei_Meirei"  {_5/C:}
+QS "L-Katsuyoukei_Gokan"   {_6/C:}
+
+QS "C-Hinshi_xx"               {/C:xx_}
+QS "C-Hinshi_Jiritsugo"        {/C:01_,/C:02_,/C:03_,/C:04_,/C:06_,/C:07_,/C:08_,/C:09_,/C:15_,/C:16_,/C:17_,/C:18_,/C:19_,/C:20_}
+QS "C-Hinshi_Fuzokugo"         {/C:10_,/C:11_,/C:12_,/C:13_,/C:14_,/C:22_,/C:23_,/C:24_}
+QS "C-Hinshi_Katsuyou_Kanou"   {/C:01_,/C:17_,/C:20_}
+QS "C-Hinshi_Katsuyou_Fukanou" {/C:01_,/C:02_,/C:03_,/C:04_,/C:06_,/C:07_,/C:08_,/C:15_,/C:16_,/C:18_,/C:19_}
+QS "C-Hinshi_Doushi"           {/C:17_,/C:20_}
+QS "C-Hinshi_Syugo_Kanou"      {/C:02_,/C:03_,/C:04_}
+QS "C-Hinshi_Meishi"           {/C:02_,/C:03_,/C:18_,/C:19_}
+QS "C-Hinshi_Syusyokugo"       {/C:06_,/C:07_}
+QS "C-Hinshi_Naiyougo"         {/C:01_,/C:02_,/C:03_,/C:04_,/C:06_,/C:07_,/C:15_,/C:16_,/C:17_,/C:18_,/C:19_,/C:20_}
+QS "C-Hinshi_Joshi"            {/C:11_,/C:12_,/C:13_,/C:14_,/C:22_,/C:23_,/C:24_}
+QS "C-Hinshi_Keiyoushi"        {/C:01_}
+QS "C-Hinshi_Futsuu_Meishi"    {/C:02_}
+QS "C-Hinshi_Sahen_Meishi"     {/C:03_}
+QS "C-Hinshi_Dai_Meishi"       {/C:04_}
+QS "C-Hinshi_Suushi"           {/C:05_}
+QS "C-Hinshi_Fukushi"          {/C:06_}
+QS "C-Hinshi_Rentaishi"        {/C:07_}
+QS "C-Hinshi_Setsuzokushi"     {/C:08_}
+QS "C-Hinshi_Kandoushi"        {/C:09_}
+QS "C-Hinshi_Jodoushi"         {/C:10_}
+QS "C-Hinshi_Fuku_Joshi"       {/C:11_}
+QS "C-Hinshi_Setsuzoku_Joshi"  {/C:12_}
+QS "C-Hinshi_Kaku_Joshi"       {/C:13_}
+QS "C-Hinshi_Syuu_Joshi"       {/C:14_}
+QS "C-Hinshi_Setsubigo"        {/C:15_}
+QS "C-Hinshi_Settougo"         {/C:16_}
+QS "C-Hinshi_Hojo_Doushi"      {/C:17_}
+QS "C-Hinshi_Koyuu_Meishi"     {/C:18_}
+QS "C-Hinshi_Keiyou_Meishi"    {/C:19_}
+QS "C-Hinshi_Hon_Doushi"       {/C:20_}
+QS "C-Hinshi_Juntai_Joshi"     {/C:22_}
+QS "C-Hinshi_Heiretsu_Joshi"   {/C:23_}
+QS "C-Hinshi_Kakari_Joshi"     {/C:24_}
+QS "C-Hinshi_Filler"           {/C:25_}
+
+QS "C-Katsuyougata_xx"           {_xx+}
+QS "C-Katsuyougata_Hensokugata"  {_0+}
+QS "C-Katsuyougata_Godan"        {_1+}
+QS "C-Katsuyougata_Ichidan"      {_2+,_3+}
+QS "C-Katsuyougata_Sahen"        {_4+}
+QS "C-Katsuyougata_Kahen"        {_5+}
+QS "C-Katsuyougata_Tokusyugata"  {_6+}
+QS "C-Katsuyougata_Miteigigata"  {_7+}
+
+QS "C-Katsuyoukei_xx"      {+xx/D:}
+QS "C-Katsuyoukei_Mizen"   {+0/D:}
+QS "C-Katsuyoukei_Renyou"  {+1/D:}
+QS "C-Katsuyoukei_Syuushi" {+2/D:}
+QS "C-Katsuyoukei_Rentai"  {+3/D:}
+QS "C-Katsuyoukei_Katei"   {+4/D:}
+QS "C-Katsuyoukei_Meirei"  {+5/D:}
+QS "C-Katsuyoukei_Gokan"   {+6/D:}
+
+QS "L-Acc-Interrogative=xx" {!xx_}
+QS "L-Acc-Interrogative=0"  {!0_}
+QS "L-Acc-Interrogative=1"  {!1_}
+
+QS "L-Acc_Pau_C-Acc=xx" {-xx/F:}
+QS "L-Acc_Pau_C-Acc=0"  {-0/F:}
+QS "L-Acc_Pau_C-Acc=1"  {-1/F:}
+
+QS "C-Acc-Interrogative=xx" {#xx_}
+QS "C-Acc-Interrogative=0"  {#0_}
+QS "C-Acc-Interrogative=1"  {#1_}
+
+QS "R-Acc-Interrogative=xx" {%xx_}
+QS "R-Acc-Interrogative=0"  {%0_}
+QS "R-Acc-Interrogative=1"  {%1_}
+
+QS "C-Acc_Pau_R-Acc=xx" {_xx/H:}
+QS "C-Acc_Pau_R-Acc=0"  {_0/H:}
+QS "C-Acc_Pau_R-Acc=1"  {_1/H:}
+
+QS "R-Hinshi_xx"               {/D:xx+}
+QS "R-Hinshi_Jiritsugo"        {/D:01+,/D:02+,/D:03+,/D:04+,/D:06+,/D:07+,/D:08+,/D:09+,/D:15+,/D:16+,/D:17+,/D:18+,/D:19+,/D:20+}
+QS "R-Hinshi_Fuzokugo"         {/D:10+,/D:11+,/D:12+,/D:13+,/D:14+,/D:22+,/D:23+,/D:24+}
+QS "R-Hinshi_Katsuyou_Kanou"   {/D:01+,/D:17+,/D:20+}
+QS "R-Hinshi_Katsuyou_Fukanou" {/D:01+,/D:02+,/D:03+,/D:04+,/D:06+,/D:07+,/D:08+,/D:15+,/D:16+,/D:18+,/D:19+}
+QS "R-Hinshi_Doushi"           {/D:17+,/D:20+}
+QS "R-Hinshi_Syugo_Kanou"      {/D:02+,/D:03+,/D:04+}
+QS "R-Hinshi_Meishi"           {/D:02+,/D:03+,/D:18+,/D:19+}
+QS "R-Hinshi_Syusyokugo"       {/D:06+,/D:07+}
+QS "R-Hinshi_Naiyougo"         {/D:01+,/D:02+,/D:03+,/D:04+,/D:06+,/D:07+,/D:15+,/D:16+,/D:17+,/D:18+,/D:19+,/D:20+}
+QS "R-Hinshi_Joshi"            {/D:11+,/D:12+,/D:13+,/D:14+,/D:22+,/D:23+,/D:24+}
+QS "R-Hinshi_Keiyoushi"        {/D:01+}
+QS "R-Hinshi_Futsuu_Meishi"    {/D:02+}
+QS "R-Hinshi_Sahen_Meishi"     {/D:03+}
+QS "R-Hinshi_Dai_Meishi"       {/D:04+}
+QS "R-Hinshi_Suushi"           {/D:05+}
+QS "R-Hinshi_Fukushi"          {/D:06+}
+QS "R-Hinshi_Rentaishi"        {/D:07+}
+QS "R-Hinshi_Setsuzokushi"     {/D:08+}
+QS "R-Hinshi_Kandoushi"        {/D:09+}
+QS "R-Hinshi_Jodoushi"         {/D:10+}
+QS "R-Hinshi_Fuku_Joshi"       {/D:11+}
+QS "R-Hinshi_Setsuzoku_Joshi"  {/D:12+}
+QS "R-Hinshi_Kaku_Joshi"       {/D:13+}
+QS "R-Hinshi_Syuu_Joshi"       {/D:14+}
+QS "R-Hinshi_Setsubigo"        {/D:15+}
+QS "R-Hinshi_Settougo"         {/D:16+}
+QS "R-Hinshi_Hojo_Doushi"      {/D:17+}
+QS "R-Hinshi_Koyuu_Meishi"     {/D:18+}
+QS "R-Hinshi_Keiyou_Meishi"    {/D:19+}
+QS "R-Hinshi_Hon_Doushi"       {/D:20+}
+QS "R-Hinshi_Juntai_Joshi"     {/D:22+}
+QS "R-Hinshi_Heiretsu_Joshi"   {/D:23+}
+QS "R-Hinshi_Kakari_Joshi"     {/D:24+}
+QS "R-Hinshi_Filler"           {/D:25+}
+
+QS "R-Katsuyougata_xx"           {+xx_}
+QS "R-Katsuyougata_Hensokugata"  {+0_}
+QS "R-Katsuyougata_Godan"        {+1_}
+QS "R-Katsuyougata_Ichidan"      {+2_,+3_}
+QS "R-Katsuyougata_Sahen"        {+4_}
+QS "R-Katsuyougata_Kahen"        {+5_}
+QS "R-Katsuyougata_Tokusyugata"  {+6_}
+QS "R-Katsuyougata_Miteigigata"  {+7_}
+
+QS "R-Katsuyoukei_xx"      {_xx/E:}
+QS "R-Katsuyoukei_Mizen"   {_0/E:}
+QS "R-Katsuyoukei_Renyou"  {_1/E:}
+QS "R-Katsuyoukei_Syuushi" {_2/E:}
+QS "R-Katsuyoukei_Rentai"  {_3/E:}
+QS "R-Katsuyoukei_Katei"   {_4/E:}
+QS "R-Katsuyoukei_Meirei"  {_5/E:}
+QS "R-Katsuyoukei_Gokan"   {_6/E:}
+
 CQS "d1_absolute_pitch" {/D:(\NOTE)!}
 CQS "e1_absolute_pitch" {/E:(\NOTE)]}
 CQS "f1_absolute_pitch" {/F:(\NOTE)#}
@@ -228,3 +416,35 @@ CQS "e58_pitch_difference"      {+([pm]\d+)!}
 CQS "f6_length_by_syllable"     {$(\d+)+}
 CQS "f7_length_by_10ms"         {+(\d+)%}
 CQS "f8_length_by_96th_note"    {%(\d+);}
+
+CQS "L-Br_Len_Acc"  {/H:(\d+)_}
+CQS "L-Br_Len_Mora"   {_(\d+)/I:}
+CQS "C-Br_Len_Acc"  {/I:(\d+)-}
+CQS "C-Br_Len_Mora"  {-(\d+)@}
+CQS "C-Br_Fw-Pos-in_Utt_Br"  {@(\d+)+}
+CQS "C-Br_Bw-Pos-in_Utt_Br"  {+(\d+)&}
+CQS "C-Br_Fw-Pos-in_Utt_Acc" {&(\d+)-}
+CQS "C-Br_Bw-Pos-in_Utt_Acc" {-(\d+)|}
+CQS "C-Br_Fw-Pos-in_Utt_Mora" {|(\d+)+}
+CQS "C-Br_Bw-Pos-in_Utt_Mora" {+(\d+)/J:}
+CQS "R-Br_Len_Acc" {/J:(\d+)_}
+CQS "R-Br_Len_Mora" {_(\d+)/K:}
+CQS "Utt_Len_Br" {/K:(\d+)+}
+CQS "Utt_Len_Acc" {+(\d+)-}
+CQS "Utt_Len_Mora" {-(\d+)}
+
+CQS "C-Acc_Fw-Pos-in_Br_Acc"  {@(\d+)_}
+CQS "C-Acc_Bw-Pos-in_Br_Acc"  {_(\d+)|}
+CQS "C-Acc_Fw-Pos-in_Br_Mora"  {|(\d+)_}
+CQS "C-Acc_Bw-Pos-in_Br_Mora"  {_(\d+)/G:}
+CQS "R-Acc_Len_Mora=1"  {/G:(\d+)_}
+CQS "R-Acc-Type"  {_(\d+)%}
+
+CQS "C-Acc_Len_Mora"  {/F:(\d+)_}
+CQS "C-Acc-Type"  {_(\d+)#}
+CQS "L-Acc_Len_Mora"  {/E:(\d+)_}
+CQS "L-Acc-Type"  {_(\d+)!}
+
+CQS "C-Mora_diff_Acc-Type" {/A:(\d+)+}
+CQS "C-Mora_Fw-Pos-in_Acc_Mora"  {+(\d+)+}
+CQS "C-Mora_Bw-Pos-in_Acc_Mora"   {+(\d+)/B:}
