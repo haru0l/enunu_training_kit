@@ -18,20 +18,20 @@ QS "p3_L-Phone_Musei_Boin"      {*^A-*,*^I-*,*^U-*,*^E-*,*^O-*,*^AG-*,*^IG-*,*^U
 QS "p4_C-Phone_Musei_Boin"      {*-A+*,*-I+*,*-U+*,*-E+*,*-O+*,*-AG+*,*-IG+*,*-UG+*,*-EG+*,*-OG+*,*-AF+*,*-IF+*,*-UF+*,*-EF+*,*-OF+*}
 QS "p5_R-Phone_Musei_Boin"      {*+A=*,*+I=*,*+U=*,*+E=*,*+O=*,*+AG=*,*+IG=*,*+UG=*,*+EG=*,*+OG=*,*+AF=*,*+IF=*,*+UF=*,*+EF=*,*+OF=*}
 
-QS "p3_L-Phone_Shiin"           {*^v-*,*^b-*,*^by-*,*^m-*,*^my-*,*^w-*,*^z-*,*^j-*,*^d-*,*^dy-*,*^n-*,*^ny-*,*^r-*,*^ry-*,*^g-*,*^gy-*,*^y-*,*^f-*,*^p-*,*^py-*,*^s-*,*^sh-*,*^ts-*,*^ch-*,*^t-*,*^ty-*,*^k-*,*^ky-*,*^h-*,*^hy-*,*^fy-*}
-QS "p4_C-Phone_Shiin"           {*-v+*,*-b+*,*-by+*,*-m+*,*-my+*,*-w+*,*-z+*,*-j+*,*-d+*,*-dy+*,*-n+*,*-ny+*,*-r+*,*-ry+*,*-g+*,*-gy+*,*-y+*,*-f+*,*-p+*,*-py+*,*-s+*,*-sh+*,*-ts+*,*-ch+*,*-t+*,*-ty+*,*-k+*,*-ky+*,*-h+*,*-hy+*,*-fy+*}
-QS "p5_R-Phone_Shiin"           {*+v=*,*+b=*,*+by=*,*+m=*,*+my=*,*+w=*,*+z=*,*+j=*,*+d=*,*+dy=*,*+n=*,*+ny=*,*+r=*,*+ry=*,*+g=*,*+gy=*,*+y=*,*+f=*,*+p=*,*+py=*,*+s=*,*+sh=*,*+ts=*,*+ch=*,*+t=*,*+ty=*,*+k=*,*+ky=*,*+h=*,*+hy=*,*+fy=*}
+QS "p3_L-Phone_Shiin"           {*^v-*,*^b-*,*^by-*,*^m-*,*^my-*,*^w-*,*^z-*,*^j-*,*^d-*,*^dy-*,*^n-*,*^ny-*,*^r-*,*^ry-*,*^g-*,*^gy-*,*^y-*,*^f-*,*^p-*,*^py-*,*^s-*,*^sh-*,*^ts-*,*^ch-*,*^t-*,*^ty-*,*^k-*,*^ky-*,*^h-*,*^hy-*,*^fy-*,*l-*}
+QS "p4_C-Phone_Shiin"           {*-v+*,*-b+*,*-by+*,*-m+*,*-my+*,*-w+*,*-z+*,*-j+*,*-d+*,*-dy+*,*-n+*,*-ny+*,*-r+*,*-ry+*,*-g+*,*-gy+*,*-y+*,*-f+*,*-p+*,*-py+*,*-s+*,*-sh+*,*-ts+*,*-ch+*,*-t+*,*-ty+*,*-k+*,*-ky+*,*-h+*,*-hy+*,*-fy+*,*-l+*}
+QS "p5_R-Phone_Shiin"           {*+v=*,*+b=*,*+by=*,*+m=*,*+my=*,*+w=*,*+z=*,*+j=*,*+d=*,*+dy=*,*+n=*,*+ny=*,*+r=*,*+ry=*,*+g=*,*+gy=*,*+y=*,*+f=*,*+p=*,*+py=*,*+s=*,*+sh=*,*+ts=*,*+ch=*,*+t=*,*+ty=*,*+k=*,*+ky=*,*+h=*,*+hy=*,*+fy=*,*+l=*}
 
-QS "p3_L-Phone_Youon"           {*^by-*,*^my-*,*^j-*,*^dy-*,*^ny-*,*^ry-*,*^gy-*,*^py-*,*^sh-*,*^ch-*,*^ty-*,*^ky-*,*^hy-*,*^fy-*}
-QS "p4_C-Phone_Youon"           {*-by+*,*-my+*,*-j+*,*-dy+*,*-ny+*,*-ry+*,*-gy+*,*-py+*,*-sh+*,*-ch+*,*-ty+*,*-ky+*,*-hy+*,*-fy+*}
-QS "p5_R-Phone_Youon"           {*+by=*,*+my=*,*+j=*,*+dy=*,*+ny=*,*+ry=*,*+gy=*,*+py=*,*+sh=*,*+ch=*,*+ty=*,*+ky=*,*+hy=*,*+fy=*}
+QS "p3_L-Phone_Youon"           {*^by-*,*^my-*,*^j-*,*^dy-*,*^ny-*,*^ry-*,*^gy-*,*^py-*,*^sh-*,*^ch-*,*^ty-*,*^ky-*,*^hy-*,*^fy-*,*l-*}
+QS "p4_C-Phone_Youon"           {*-by+*,*-my+*,*-j+*,*-dy+*,*-ny+*,*-ry+*,*-gy+*,*-py+*,*-sh+*,*-ch+*,*-ty+*,*-ky+*,*-hy+*,*-fy+*,*-l+*}
+QS "p5_R-Phone_Youon"           {*+by=*,*+my=*,*+j=*,*+dy=*,*+ny=*,*+ry=*,*+gy=*,*+py=*,*+sh=*,*+ch=*,*+ty=*,*+ky=*,*+hy=*,*+fy=*,*+l=*}
 
-QS "p3_L-Phone_Yuusei_Shiin"    {*^v-*,*^b-*,*^by-*,*^m-*,*^my-*,*^w-*,*^z-*,*^j-*,*^d-*,*^dy-*,*^n-*,*^ny-*,*^r-*,*^ry-*,*^g-*,*^gy-*,*^y-*}
-QS "p4_C-Phone_Yuusei_Shiin"    {*-v+*,*-b+*,*-by+*,*-m+*,*-my+*,*-w+*,*-z+*,*-j+*,*-d+*,*-dy+*,*-n+*,*-ny+*,*-r+*,*-ry+*,*-g+*,*-gy+*,*-y+*}
-QS "p5_R-Phone_Yuusei_Shiin"    {*+v=*,*+b=*,*+by=*,*+m=*,*+my=*,*+w=*,*+z=*,*+j=*,*+d=*,*+dy=*,*+n=*,*+ny=*,*+r=*,*+ry=*,*+g=*,*+gy=*,*+y=*}
-QS "p3_L-Phone_Musei_Shiin"     {*^f-*,*^p-*,*^py-*,*^s-*,*^sh-*,*^ts-*,*^ch-*,*^t-*,*^ty-*,*^k-*,*^ky-*,*^h-*,*^hy-*,*^fy-*}
-QS "p4_C-Phone_Musei_Shiin"     {*-f+*,*-p+*,*-py+*,*-s+*,*-sh+*,*-ts+*,*-ch+*,*-t+*,*-ty+*,*-k+*,*-ky+*,*-h+*,*-hy+*,*-fy+*}
-QS "p5_R-Phone_Musei_Shiin"     {*+f=*,*+p=*,*+py=*,*+s=*,*+sh=*,*+ts=*,*+ch=*,*+t=*,*+ty=*,*+k=*,*+ky=*,*+h=*,*+hy=*,*+fy=*}
+QS "p3_L-Phone_Yuusei_Shiin"    {*^v-*,*^b-*,*^by-*,*^m-*,*^my-*,*^w-*,*^z-*,*^j-*,*^d-*,*^dy-*,*^n-*,*^ny-*,*^r-*,*^ry-*,*^g-*,*^gy-*,*^y-*,*l-*}
+QS "p4_C-Phone_Yuusei_Shiin"    {*-v+*,*-b+*,*-by+*,*-m+*,*-my+*,*-w+*,*-z+*,*-j+*,*-d+*,*-dy+*,*-n+*,*-ny+*,*-r+*,*-ry+*,*-g+*,*-gy+*,*-y+*,*-l+*}
+QS "p5_R-Phone_Yuusei_Shiin"    {*+v=*,*+b=*,*+by=*,*+m=*,*+my=*,*+w=*,*+z=*,*+j=*,*+d=*,*+dy=*,*+n=*,*+ny=*,*+r=*,*+ry=*,*+g=*,*+gy=*,*+y=*,*+l=*}
+QS "p3_L-Phone_Musei_Shiin"     {*^f-*,*^p-*,*^py-*,*^s-*,*^sh-*,*^ts-*,*^ch-*,*^t-*,*^ty-*,*^k-*,*^ky-*,*^h-*,*^hy-*,*^fy-*,*l-*}
+QS "p4_C-Phone_Musei_Shiin"     {*-f+*,*-p+*,*-py+*,*-s+*,*-sh+*,*-ts+*,*-ch+*,*-t+*,*-ty+*,*-k+*,*-ky+*,*-h+*,*-hy+*,*-fy+*,*-l+*}
+QS "p5_R-Phone_Musei_Shiin"     {*+f=*,*+p=*,*+py=*,*+s=*,*+sh=*,*+ts=*,*+ch=*,*+t=*,*+ty=*,*+k=*,*+ky=*,*+h=*,*+hy=*,*+fy=*,*+l=*}
 
 QS "p3_L-Phone_cl"  {*^cl-*}
 QS "p4_C-Phone_cl"  {*-cl+*}
@@ -48,6 +48,9 @@ QS "p5_R-Phone_sil" {*+sil=*}
 QS "p3_L-Phone_N"   {*^N-*}
 QS "p4_C-Phone_N"   {*-N+*}
 QS "p5_R-Phone_N"   {*+N=*}
+QS "p3_L-Phone_N"   {*^l-*}
+QS "p4_C-Phone_N"   {*-l+*}
+QS "p5_R-Phone_N"   {*+l=*}
 QS "p3_L-Phone_NF"  {*^NF-*}
 QS "p4_C-Phone_NF"  {*-NF+*}
 QS "p5_R-Phone_NF"  {*+NF=*}
